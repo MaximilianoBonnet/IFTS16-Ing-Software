@@ -1,0 +1,130 @@
+{
+    "producto1": [
+        {
+            "categoria1": {
+                "marca1": {
+                    "id":"0",
+                    "Detalle":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean viverra dolor quis nisi auctor, mollis vestibulum nibh posuere"
+                },
+                "marca2": {
+                    "id":"1",
+                    "Detalle":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean viverra dolor quis nisi auctor, mollis vestibulum nibh posuere"
+                },
+                "marca3": {
+                    "id":"2",
+                    "Detalle":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean viverra dolor quis nisi auctor, mollis vestibulum nibh posuere"
+                }
+            },
+            "categoria2": {
+                "marca1": {
+                    "id":"3",
+                    "Detalle":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean viverra dolor quis nisi auctor, mollis vestibulum nibh posuere"
+                },
+                "marca2": {
+                    "id":"4",
+                    "Detalle":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean viverra dolor quis nisi auctor, mollis vestibulum nibh posuere"
+                },
+                "marca3": {
+                    "id":"5",
+                    "Detalle":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean viverra dolor quis nisi auctor, mollis vestibulum nibh posuere"
+                }
+            }
+        }
+    ],
+    "producto2": [
+        {
+            "categoria1": {
+                "marca1": {
+                    "id":"6",
+                    "Detalle":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean viverra dolor quis nisi auctor, mollis vestibulum nibh posuere"
+                },
+                "marca2": {
+                    "id":"7",
+                    "Detalle":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean viverra dolor quis nisi auctor, mollis vestibulum nibh posuere"
+                },
+                "marca3": {
+                    "id":"8",
+                    "Detalle":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean viverra dolor quis nisi auctor, mollis vestibulum nibh posuere"
+                }
+            },
+            "categoria2": {
+                "marca1": {
+                    "id":"9",
+                    "Detalle":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean viverra dolor quis nisi auctor, mollis vestibulum nibh posuere"
+                },
+                "marca2": {
+                    "id":"10",
+                    "Detalle":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean viverra dolor quis nisi auctor, mollis vestibulum nibh posuere"
+                },
+                "marca3": {
+                    "id":"11",
+                    "Detalle":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean viverra dolor quis nisi auctor, mollis vestibulum nibh posuere"
+                }
+            }
+        }
+    ],
+    "producto3": [
+        {
+            "categoria1": {
+                "marca1": {
+                    "id":"6",
+                    "Detalle":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean viverra dolor quis nisi auctor, mollis vestibulum nibh posuere"
+                },
+                "marca2": {
+                    "id":"7",
+                    "Detalle":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean viverra dolor quis nisi auctor, mollis vestibulum nibh posuere"
+                },
+                "marca3": {
+                    "id":"8",
+                    "Detalle":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean viverra dolor quis nisi auctor, mollis vestibulum nibh posuere"
+                }
+            },
+            "categoria2": {
+                "marca1": {
+                    "id":"9",
+                    "Detalle":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean viverra dolor quis nisi auctor, mollis vestibulum nibh posuere"
+                },
+                "marca2": {
+                    "id":"10",
+                    "Detalle":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean viverra dolor quis nisi auctor, mollis vestibulum nibh posuere"
+                },
+                "marca3": {
+                    "id":"11",
+                    "Detalle":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean viverra dolor quis nisi auctor, mollis vestibulum nibh posuere"
+                }
+            }
+        }
+    ],
+    "producto4": [
+        {
+            "categoria1": {
+                "marca1": {
+                    "id":"6",
+                    "Detalle":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean viverra dolor quis nisi auctor, mollis vestibulum nibh posuere"
+                },
+                "marca2": {
+                    "id":"7",
+                    "Detalle":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean viverra dolor quis nisi auctor, mollis vestibulum nibh posuere"
+                },
+                "marca3": {
+                    "id":"8",
+                    "Detalle":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean viverra dolor quis nisi auctor, mollis vestibulum nibh posuere"
+                }
+            },
+            "categoria2": {
+                "marca1": {
+                    "id":"9",
+                    "Detalle":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean viverra dolor quis nisi auctor, mollis vestibulum nibh posuere"
+                },
+                "marca2": {
+                    "id":"10",
+                    "Detalle":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean viverra dolor quis nisi auctor, mollis vestibulum nibh posuere"
+                },
+                "marca3": {
+                    "id":"11",
+                    "Detalle":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean viverra dolor quis nisi auctor, mollis vestibulum nibh posuere"
+                }
+            }
+        }
+    ]
+}

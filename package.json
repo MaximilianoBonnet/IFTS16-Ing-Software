@@ -1,0 +1,29 @@
+{
+  "name": "ifts16-ing-software",
+  "version": "1.0.0",
+  "description": "API para un catálogo online",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src",
+    "dev": "nodemon src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaximilianoBonnet/IFTS16-Ing-Software.git"
+  },
+  "keywords": [],
+  "author": "Anabela Lamour - Taynah Cardoso - Jesús Arias - Esteban Ferrari - Cristian Jelovcic - Maximiliano Bonnet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaximilianoBonnet/IFTS16-Ing-Software/issues"
+  },
+  "homepage": "https://github.com/MaximilianoBonnet/IFTS16-Ing-Software#readme",
+  "devDependencies": {
+    "nodemon": "2.0.18"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
